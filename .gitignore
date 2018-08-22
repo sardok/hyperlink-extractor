@@ -102,3 +102,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+.tox/
+.pytest_cache/
+build/
+dist/
+venv/
+.idea/
