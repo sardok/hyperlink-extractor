@@ -4,7 +4,7 @@ Extracts and returns html links as `hyperlink.URL`.
 
 ### Simple Usage
 
-```
+```python
 In [1]: text = '''    <html>
    ...:         <body>
    ...:             <a id="a_1" href="link1.html"></a>
